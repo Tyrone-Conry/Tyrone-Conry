@@ -1,65 +1,60 @@
-# MYDFIR-Forge-Threat-Hunt-Portfolio
+# Hello, I'm Tyrone
+<a href="https://linkedin.com/in/tyrone-conry"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A personal collection of threat hunts, detections, and MITRE ATT&CK–mapped investigations, built while being an active member of the MyDFIR SOC Community.
+[Brief Introduction - Remove this afterwards]
 
-This repo doubles as a portfolio to showcase my growth as a SOC analyst — demonstrating how I hunt, investigate, and document findings.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-📂 Repository Structure
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-/detection-queries/ → Reusable KQL/SPL queries and detection logic
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-/hunts/ → Writeups of completed hunts/mini-challenges
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-/investigations/ → Case reports, modified after community feedback, with screenshots and supporting evidence
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-📑 Detection Query Template
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-Each entry should include:
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-- **Objective**: What the query is designed to find
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-- **Suspicious Indicators**: What analysts should look for in the results
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-- **Query**: The detection logic itself
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-🧩 Hunt Template
-
-Each hunt writeup should follow this format:
-
-- **Technique**: MITRE ATT&CK ID & name
-
-- **Summary**: What the technique is and how attackers use it
-
-- **Detection Strategy**: Relevant log sources and suspicious indicators
-
-- **KQL/SPL**: Queries used in the hunt
-
-- **Triage & Investigation**: What to check first, and when to escalate
-
-- **Mitigation & Remediation**: How to prevent and respond
-
-🧾 Investigations
-
-All investigation reports should:
-
-- Incorporate feedback received from the MyDFIR SOC Community
-
-- Be posted in /investigations/ as a completed case report
-
-- Include supporting evidence such as screenshots, queries, and findings
-
-This section highlights your ability to take feedback, improve, and document investigations — a key SOC skill.
-
-🎯 Purpose
-
-This playbook is designed to demonstrate:
-
-💻 Detection development
-
-🔍 Threat hunting skills
-
-📝 SOC triage & investigations
-
-🗂️ MITRE ATT&CK mapping
-
-Over time, this becomes a portfolio you can showcase in interviews, proving your ability to think, hunt, and communicate like a SOC analyst.
+## Projects
+- Detection Lab
+- SOC Automation Project
