@@ -6,7 +6,7 @@ I'm Tyrone, an IT Manager going on 7 years of experience managing and securing a
 
 ## Objective
 I'm aiming to move into a Security Operations Center, starting with foundational analyst work to build strong investigative habits. Long term, I want to grow into an incident response position where I'm not just containing an incident, but identifying exactly how the attacker gained entry and providing a solution to close that gap.
-
+<!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -55,3 +55,4 @@ I'm aiming to move into a Security Operations Center, starting with foundational
 ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
