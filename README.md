@@ -1,9 +1,8 @@
 # Hello, I'm Tyrone
 <a href="https://linkedin.com/in/tyrone-conry"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+[Brief Introduction]
+I'm Tyrone, an IT Manager going on 7 years of experience managing and securing an environment with roughly 425 devices, including the day to day responsibilities for the tooling, compliance posture, and security decisions in that environment. I'm now transitioning that operational depth into a security-focused role, with a specific interest in investigation and incident response.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
