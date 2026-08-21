@@ -7,6 +7,14 @@ I'm Tyrone, an IT Manager going on 7 years of experience managing and securing a
 ## Objective
 I'm aiming to move into a Security Operations Center, starting with foundational analyst work to build strong investigative habits. Long term, I want to grow into an incident response position where I'm not just containing an incident, but identifying exactly how the attacker gained entry and providing a solution to close that gap.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Deployment and Multi-Platform Log Ingestion | <a href="https://github.com/Tyrone-Conry/Wazuh-Lab">Wazuh SIEM Lab</a>|
+| Detection Engineering and Custom Rule Development | <a href="https://github.com/Tyrone-Conry/Wazuh-Lab">Wazuh SIEM Lab</a>|
+| Security Automation and Incident Response with Active Response | <a href="https://github.com/Tyrone-Conry/Wazuh-Lab">Wazuh SIEM Lab</a>|
+
 ## Tools
 
 ### Network
@@ -40,7 +48,20 @@ I'm aiming to move into a Security Operations Center, starting with foundational
 </div>
 
 ## Projects
-- Wazuh SIEM Lab - Log ingestion, Dashboards, Custom Rules, FIM, Active Response
+- <a href="https://github.com/Tyrone-Conry/Wazuh-Lab">On-Prem Wazuh SIEM Lab</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ## Skills
