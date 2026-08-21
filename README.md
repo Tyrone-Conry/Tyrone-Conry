@@ -39,6 +39,9 @@ I'm aiming to move into a Security Operations Center, starting with foundational
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
+## Projects
+- Wazuh SIEM Lab - Log ingestion, Dashboards, Custom Rules, FIM, Active Response
+
 <!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
