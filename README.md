@@ -5,7 +5,7 @@
 I'm Tyrone, an IT Manager going on 7 years of experience managing and securing an environment with roughly 425 devices, including the day to day responsibilities for the tooling, compliance posture, and security decisions in that environment. I'm now transitioning that operational depth into a security-focused role, with a specific interest in investigation and incident response.
 
 ## Objective
-I'm aiming to move into a Security Operations Center, starting with foundational analyst work to build strong investigative habits. Long term, I want to grow into an incident response position where I'm not just containing an incident, but identifying exactly how the attacker gained entry and providing a solution to close that gap.
+I'm aiming to move into a Security Analyst, starting with foundational analyst work to build strong investigative habits. Long term, I want to grow into an incident response position where I'm not just containing an incident, but identifying exactly how the attacker gained entry and providing a solution to close that gap.
 
 ## Skills
 
