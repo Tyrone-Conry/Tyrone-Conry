@@ -22,6 +22,7 @@ I'm aiming to move into a Security Operations Center, starting with foundational
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos_Firewall-1F2A44?&style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iptables-CC0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
 <!--Network skills to learn Zeek Suricata tcpdump  -->
